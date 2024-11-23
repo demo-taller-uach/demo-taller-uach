@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @demo-taller-uach
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in AI 🤖
+- 🌱 I’m currently learning Streamlit 🔺🔺🔺
+- 📫 How to reach me demo.taller.uach@gmail.com
 
-![text](https://commons.wikimedia.org/wiki/File:Collage_of_Six_Cats-02.jpg#/media/Archivo:Collage_of_Six_Cats-02.jpg)
+  ![](https://github.com/quantum-apps/Primer_Repo/blob/main/quantum.jpg)
+
+
+
 
 <!---
 demo-taller-uach/demo-taller-uach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
